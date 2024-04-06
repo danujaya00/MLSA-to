@@ -31,28 +31,28 @@ const imageAltText = "Laptop image";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Rotaract UCSC Web Blog",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Led the development, deployment and management of the official web blog for the Rotaract Club of UCSC, leveraging the Ghost CMS for content management and Docker for seamless deployment.",
+    url: "https://rotaractucsc.org/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Server Implemented Using C",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Implementation of a basic web server written in C as part of the Computer Networks module. The server is designed to handle HTTP requests and serve web content accordingly.",
+    url: "https://github.com/danujaya00/WebServer-C",
   },
   {
-    title: "My Resume Site",
+    title: "Library Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Library Management System is a Java console application designed for efficient management of a library's operations.",
+    url: "https://github.com/danujaya00/library-management-system",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SnapFlix Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Contributed to the SnapFlix Website, a platform for a short film hackathon, by developing its structure with HTML, enhancing aesthetics through CSS, and adding functionality with JavaScript.",
+    url: "https://github.com/RACUCSC/SnapFlix-website",
   },
 ];
 
