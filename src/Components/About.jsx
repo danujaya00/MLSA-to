@@ -24,7 +24,7 @@ const imageAltText = "Technical background image";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Undergraduate at UCSC | α - MLSA | DevOps | Designer & Developer |";
+  "Undergraduate at UCSC | α - MLSA | DevOps | Designer & Developer";
 
 /**
  * List of some of skills or technologies you work on, are learning,
