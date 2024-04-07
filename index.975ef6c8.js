@@ -27175,14 +27175,120 @@ const Education = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "light",
         id: "education",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-            children: "Education"
-        }, void 0, false, {
-            fileName: "src/Components/Education.jsx",
-            lineNumber: 6,
-            columnNumber: 7
-        }, undefined)
-    }, void 0, false, {
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                children: "Education"
+            }, void 0, false, {
+                fileName: "src/Components/Education.jsx",
+                lineNumber: 6,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                fileName: "src/Components/Education.jsx",
+                lineNumber: 7,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "grid",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "cell",
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                                children: "University of Colombo School of Computing"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 10,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                children: "Bachelor of Science in Information Systems"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 11,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                children: "2022 - 2026"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 12,
+                                columnNumber: 11
+                            }, undefined)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/Components/Education.jsx",
+                        lineNumber: 9,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "cell",
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                                children: "University of Moratuwa"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 15,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                children: "Information Technology"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 16,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                children: "2021 - 2022"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 17,
+                                columnNumber: 11
+                            }, undefined)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/Components/Education.jsx",
+                        lineNumber: 14,
+                        columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                        className: "cell",
+                        children: [
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                                children: "St.Annes Collage"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 20,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                children: "Physical Sciences"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 21,
+                                columnNumber: 11
+                            }, undefined),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                                children: "2017 - 2019"
+                            }, void 0, false, {
+                                fileName: "src/Components/Education.jsx",
+                                lineNumber: 22,
+                                columnNumber: 11
+                            }, undefined)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/Components/Education.jsx",
+                        lineNumber: 19,
+                        columnNumber: 9
+                    }, undefined)
+                ]
+            }, void 0, true, {
+                fileName: "src/Components/Education.jsx",
+                lineNumber: 8,
+                columnNumber: 7
+            }, undefined)
+        ]
+    }, void 0, true, {
         fileName: "src/Components/Education.jsx",
         lineNumber: 5,
         columnNumber: 5
